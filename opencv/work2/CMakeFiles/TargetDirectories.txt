@@ -1,0 +1,1 @@
+/home/rightpeter/Source/study/opencv/work2/CMakeFiles/work2.dir
